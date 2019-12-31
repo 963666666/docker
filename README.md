@@ -8,7 +8,6 @@
     <li>unshare()将进程移出某个Namespace</li>
     <li>setns()将进程加入到Namespace</li>
   </ul>
-  
   <br/>
   <ul>
     <li>UTS Namespace 主要是用来隔离nodename和domainname两个系统标识。在UTS Namespace里面，每个Namespace允许有自己的hostname</li>
